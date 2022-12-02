@@ -1,0 +1,17 @@
+{
+  "name": "@sweepstake/ui-components",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc --watch",
+    "lint": "echo 'test'"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
